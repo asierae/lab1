@@ -1,0 +1,16 @@
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WebApplicationIva\obj\Debug\WebApplicationIva.Resources.resources
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WebApplicationIva\obj\Debug\WebApplicationIva.vbproj.GenerateResource.Cache
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WebApplicationIva\bin\WebApplicationIva.dll.config
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WebApplicationIva\bin\WebApplicationIva.dll
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WebApplicationIva\bin\WebApplicationIva.pdb
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WebApplicationIva\bin\WebApplicationIva.xml
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WebApplicationIva\bin\calculos.dll
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WebApplicationIva\bin\calculos.pdb
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WebApplicationIva\bin\calculos.xml
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WebApplicationIva\obj\Debug\WebApplicationIva.dll
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WebApplicationIva\obj\Debug\WebApplicationIva.xml
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WebApplicationIva\obj\Debug\WebApplicationIva.pdb
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WebApplicationIva\obj\Debug\WebApplicationIva.vbprojResolveAssemblyReference.cache
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WebApplicationIva\bin\obtenerDatos.dll
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WebApplicationIva\bin\obtenerDatos.pdb
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WebApplicationIva\bin\obtenerDatos.xml

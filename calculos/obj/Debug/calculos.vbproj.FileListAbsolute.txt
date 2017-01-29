@@ -1,0 +1,12 @@
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\calculos\bin\Debug\calculos.dll
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\calculos\bin\Debug\calculos.pdb
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\calculos\bin\Debug\calculos.xml
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\calculos\obj\Debug\calculos.Resources.resources
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\calculos\obj\Debug\calculos.vbproj.GenerateResource.Cache
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\calculos\obj\Debug\calculos.dll
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\calculos\obj\Debug\calculos.xml
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\calculos\obj\Debug\calculos.pdb
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\calculos\bin\Debug\obtenerDatos.dll
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\calculos\bin\Debug\obtenerDatos.pdb
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\calculos\bin\Debug\obtenerDatos.xml
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\calculos\obj\Debug\calculos.vbprojResolveAssemblyReference.cache

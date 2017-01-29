@@ -1,0 +1,8 @@
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\obtenerDatos\bin\Debug\obtenerDatos.dll
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\obtenerDatos\bin\Debug\obtenerDatos.pdb
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\obtenerDatos\bin\Debug\obtenerDatos.xml
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\obtenerDatos\obj\Debug\obtenerDatos.Resources.resources
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\obtenerDatos\obj\Debug\obtenerDatos.vbproj.GenerateResource.Cache
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\obtenerDatos\obj\Debug\obtenerDatos.dll
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\obtenerDatos\obj\Debug\obtenerDatos.xml
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\obtenerDatos\obj\Debug\obtenerDatos.pdb

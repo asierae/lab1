@@ -1,0 +1,13 @@
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\ConsoleApplicationIva\bin\Debug\ConsoleApplicationIva.exe.config
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\ConsoleApplicationIva\bin\Debug\ConsoleApplicationIva.exe
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\ConsoleApplicationIva\bin\Debug\ConsoleApplicationIva.pdb
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\ConsoleApplicationIva\bin\Debug\ConsoleApplicationIva.xml
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\ConsoleApplicationIva\bin\Debug\calculos.dll
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\ConsoleApplicationIva\bin\Debug\calculos.pdb
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\ConsoleApplicationIva\bin\Debug\calculos.xml
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\ConsoleApplicationIva\obj\Debug\ConsoleApplicationIva.vbprojResolveAssemblyReference.cache
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\ConsoleApplicationIva\obj\Debug\ConsoleApplicationIva.Resources.resources
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\ConsoleApplicationIva\obj\Debug\ConsoleApplicationIva.vbproj.GenerateResource.Cache
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\ConsoleApplicationIva\obj\Debug\ConsoleApplicationIva.exe
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\ConsoleApplicationIva\obj\Debug\ConsoleApplicationIva.xml
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\ConsoleApplicationIva\obj\Debug\ConsoleApplicationIva.pdb

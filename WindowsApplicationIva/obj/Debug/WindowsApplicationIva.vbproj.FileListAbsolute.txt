@@ -1,0 +1,17 @@
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WindowsApplicationIva\bin\Debug\WindowsApplicationIva.exe.config
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WindowsApplicationIva\bin\Debug\WindowsApplicationIva.exe
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WindowsApplicationIva\bin\Debug\WindowsApplicationIva.pdb
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WindowsApplicationIva\bin\Debug\WindowsApplicationIva.xml
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WindowsApplicationIva\bin\Debug\calculos.dll
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WindowsApplicationIva\bin\Debug\calculos.pdb
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WindowsApplicationIva\bin\Debug\calculos.xml
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WindowsApplicationIva\obj\Debug\WindowsApplicationIva.vbprojResolveAssemblyReference.cache
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WindowsApplicationIva\obj\Debug\WindowsApplicationIva.Form1.resources
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WindowsApplicationIva\obj\Debug\WindowsApplicationIva.Resources.resources
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WindowsApplicationIva\obj\Debug\WindowsApplicationIva.vbproj.GenerateResource.Cache
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WindowsApplicationIva\obj\Debug\WindowsApplicationIva.exe
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WindowsApplicationIva\obj\Debug\WindowsApplicationIva.xml
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WindowsApplicationIva\obj\Debug\WindowsApplicationIva.pdb
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WindowsApplicationIva\bin\Debug\obtenerDatos.dll
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WindowsApplicationIva\bin\Debug\obtenerDatos.pdb
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WindowsApplicationIva\bin\Debug\obtenerDatos.xml
