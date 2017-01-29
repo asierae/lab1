@@ -11,3 +11,6 @@ C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\ConsoleApplicati
 C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\ConsoleApplicationIva\obj\Debug\ConsoleApplicationIva.exe
 C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\ConsoleApplicationIva\obj\Debug\ConsoleApplicationIva.xml
 C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\ConsoleApplicationIva\obj\Debug\ConsoleApplicationIva.pdb
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\ConsoleApplicationIva\bin\Debug\obtenerDatos.dll
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\ConsoleApplicationIva\bin\Debug\obtenerDatos.pdb
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\ConsoleApplicationIva\bin\Debug\obtenerDatos.xml

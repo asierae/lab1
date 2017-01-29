@@ -1,0 +1,12 @@
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\calculos\bin\Release\calculos.dll
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\calculos\bin\Release\calculos.pdb
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\calculos\bin\Release\calculos.xml
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\calculos\bin\Release\obtenerDatos.dll
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\calculos\bin\Release\obtenerDatos.pdb
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\calculos\bin\Release\obtenerDatos.xml
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\calculos\obj\Release\calculos.vbprojResolveAssemblyReference.cache
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\calculos\obj\Release\calculos.Resources.resources
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\calculos\obj\Release\calculos.vbproj.GenerateResource.Cache
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\calculos\obj\Release\calculos.dll
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\calculos\obj\Release\calculos.xml
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\calculos\obj\Release\calculos.pdb

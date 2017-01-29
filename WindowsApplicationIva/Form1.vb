@@ -5,22 +5,33 @@
     End Sub
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-        Dim precio As Decimal
-        Dim tipoiva As Decimal
+        Dim precio
+        Dim tipoiva
         Dim calculo As New calculos.Calculo
         Dim datos As New calculos.Datos
 
         If (TextBox4.Text.Length = 0) Then
             precio = TextBox1.Text
             tipoiva = ListBox1.SelectedIndex
-            datos = calculo.Calcular(precio, tipoiva)
+            If IsNumeric(precio) And IsNumeric(tipoiva) Then
+                TextBox1.BackColor = Drawing.Color.White
+                datos = calculo.Calcular(precio, tipoiva)
+            Else
+                TextBox1.BackColor = Drawing.Color.Red
+            End If
+
         Else
-            datos = calculo.calcularFactura(TextBox4.Text)
+            If IsNumeric(TextBox4.Text) Then
+                TextBox4.BackColor = Drawing.Color.White
+                datos = calculo.calcularFactura(TextBox4.Text)
+            Else
+                TextBox4.BackColor = Drawing.Color.Red
+            End If
 
-        End If
-        TextBox2.Text = datos.getTodo()
-        TextBox3.Text = datos.getIva()
+            End If
+            TextBox2.Text = datos.getTodo()
+            TextBox3.Text = datos.getIva()
 
-        Label5.Text = datos.getTodo() + datos.getIva()
+            Label5.Text = datos.getTodo() + datos.getIva()
     End Sub
 End Class

@@ -1,0 +1,17 @@
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WindowsApplicationIva\bin\Release\WindowsApplicationIva.exe.config
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WindowsApplicationIva\bin\Release\WindowsApplicationIva.exe
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WindowsApplicationIva\bin\Release\WindowsApplicationIva.pdb
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WindowsApplicationIva\bin\Release\WindowsApplicationIva.xml
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WindowsApplicationIva\bin\Release\calculos.dll
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WindowsApplicationIva\bin\Release\obtenerDatos.dll
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WindowsApplicationIva\bin\Release\calculos.pdb
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WindowsApplicationIva\bin\Release\calculos.xml
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WindowsApplicationIva\bin\Release\obtenerDatos.pdb
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WindowsApplicationIva\bin\Release\obtenerDatos.xml
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WindowsApplicationIva\obj\Release\WindowsApplicationIva.vbprojResolveAssemblyReference.cache
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WindowsApplicationIva\obj\Release\WindowsApplicationIva.Form1.resources
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WindowsApplicationIva\obj\Release\WindowsApplicationIva.Resources.resources
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WindowsApplicationIva\obj\Release\WindowsApplicationIva.vbproj.GenerateResource.Cache
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WindowsApplicationIva\obj\Release\WindowsApplicationIva.exe
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WindowsApplicationIva\obj\Release\WindowsApplicationIva.xml
+C:\Users\Asierae\Documents\Visual Studio 2013\Projects\calculos\WindowsApplicationIva\obj\Release\WindowsApplicationIva.pdb
